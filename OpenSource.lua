@@ -206,7 +206,6 @@ section1:addButton("Fly (X)", function()
                         ctrl.r = 0
                     end
                 end)
-      end)
 Fly()
 section1:addButton("+ Fly speed",function()
         FLYSPEED = FLYSPEED + 3
